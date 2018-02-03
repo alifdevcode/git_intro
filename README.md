@@ -16,8 +16,11 @@ Ini adalah project untuk belajar git bersama anak I-Dev, Komunitas Developer I-T
     $ git status
     $ git add
     $ git status
-    
+
     ```
- * [ ] Melakukan penambahan file
- * [ ] Intro github
- * [ ] Remote repo -> code
+ * [x] Melakukan penambahan file
+ * [x] Intro github
+ * [x] Remote repo -> code
+
+1. Clone repo git_intro punya -> buka github dia, copy link Clone
+2. Kita buat folder baru lalu git_clone <url> temen kita
